@@ -1,0 +1,6 @@
+{
+  "name": "EZIBLE IT SOLUTIONS — Blogger XML Theme Studio",
+  "description": "Modular Google Blogger XML template studio, Theme Designer customizer, SEO/AEO/GEO JSON-LD validator, and single-file template exporter for EZIBLE IT SOLUTIONS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
